@@ -21,7 +21,9 @@ parse("(2 * (3 + -4))")
 -2
 ```
 
-and so on. This post learns from the excellent post by Fredrik Lundh, adding
+and so on. This post learns from the
+[excellent post](https://effbot.org/zone/simple-top-down-parsing.htm)
+by **Fredrik Lundh**, adding
 some explanation of the basic ideas behind the method.
 
 ## TOKENIZING
